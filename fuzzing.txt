@@ -1,0 +1,5 @@
+/admin/
+/admin.php
+/robot.txt
+/contact/
+/dvwa/
